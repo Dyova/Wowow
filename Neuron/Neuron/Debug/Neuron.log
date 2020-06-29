@@ -1,0 +1,4 @@
+﻿  Neuron.cpp
+C:\Users\pc\Desktop\Информатика\Neuron\Neuron\Neuron.cpp(95,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\pc\Desktop\Информатика\Neuron\Neuron\Neuron.cpp(93,12): warning C4101: c: неиспользованная локальная переменная
+  Neuron.vcxproj -> C:\Users\pc\Desktop\Информатика\Neuron\Debug\Neuron.exe
